@@ -9,4 +9,33 @@
 
 body{
   background:#fff;
+  color:#fff;
 }
+p#date{
+font-size:2rem;
+  margin:0 0 1rem 0;
+  font-style:italic;
+}
+h1#title{
+  font-size:12rem;
+  margin:0;
+  line-height:12rem;
+}
+p#date, h1#title{
+// border:1px solid #f00;
+  width:auto;
+
+
+}
+div#frame{
+  width:1920px;
+  height:1080px;
+  padding:50px;
+  //background:#888;
+
+  .inner{
+width:100%;
+
+  }
+}
+
