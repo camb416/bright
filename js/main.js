@@ -70,6 +70,7 @@ function outComplete() {
     curItem++;
     if (curItem >= headlines.length) {
         curItem = 0;
+        location.reload();
     }
     setItem(curItem);
     fadeIn();
