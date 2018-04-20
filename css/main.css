@@ -34,7 +34,8 @@ h1#title {
   line-height: 12rem; }
 
 p#date, h1#title {
-  width: auto; }
+  width: auto;
+  font-family: "Times New Roman", Times, serif; }
 
 div#frame {
   width: 1920px;
